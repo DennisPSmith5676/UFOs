@@ -28,7 +28,7 @@ Results:
 ### How the filters appear after being used:
 By typing in the suggested placeholder elements as the filters, the result returns 2 matches. Make sure to type everything in lower case letters and do not have spaces at the end of the text. Click off the input box or press enter to initiate the filter. To reset the filter criteria, click the refresh button. The ufo sightings in the Nav bar will take you to the github repository.
 
-![3](static\images\bottom.png)
+![3](https://github.com/DennisPSmith5676/UFOs/blob/ca116cb2f48274aeb0565f26bdc09940e17c14af/static/images/bottom.png)
 
 ## Summary:
 ### Drawbacks:
