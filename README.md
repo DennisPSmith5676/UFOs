@@ -18,12 +18,12 @@ Results:
 
 ### Welcome to UFO Sightings!
 
-![1](static\images\top.png)
+![1](https://github.com/DennisPSmith5676/UFOs/blob/ca116cb2f48274aeb0565f26bdc09940e17c14af/static/images/top.png)
 
 
 ### How the filters appear when first landing on the page:
 
-![2](static\images\working_filters.png)
+![2](https://github.com/DennisPSmith5676/UFOs/blob/ca116cb2f48274aeb0565f26bdc09940e17c14af/static/images/working_filters.png)
 
 ### How the filters appear after being used:
 By typing in the suggested placeholder elements as the filters, the result returns 2 matches. Make sure to type everything in lower case letters and do not have spaces at the end of the text. Click off the input box or press enter to initiate the filter. To reset the filter criteria, click the refresh button. The ufo sightings in the Nav bar will take you to the github repository.
@@ -37,8 +37,8 @@ The user must know specific dates, cities, or shapes to search. Some shapes like
 ### Recommendations:
  - The next addition to the filters should be to add a trim function to catch spaces at the end of words as well as allow for upper and lower cases. 
 
-![4](static\images\trim.png)
+![4](https://github.com/DennisPSmith5676/UFOs/blob/ca116cb2f48274aeb0565f26bdc09940e17c14af/static/images/trim.png)
 
 - A filter on a date range might be preferable than a singular date. Typing 1/2010 did not bring up all the dates from January as hoped. Perhaps, the UFO Sightings occur more frequently in a specific month instead of a specific day within the month. It is recommended to add in a filter function to include a date range as the filter to aid in the investigation of UFO Sightings.
 
-![5](static\images\Date.png)
+![5](https://github.com/DennisPSmith5676/UFOs/blob/ca116cb2f48274aeb0565f26bdc09940e17c14af/static/images/Date.png)
