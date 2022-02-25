@@ -17,16 +17,16 @@
 
 </head>
 
-<body>
+<body class="bg-dark">
 	<div class="wrapper">
 		<!-- nav bar -->
 		<nav class="navbar navbar-expand-lg">
 			<a class="navbar-brand" href="https://github.com/DennisPSmith5676/UFOs.git">UFO Sightings</a>
 		</nav>
 
-		<!-- jombotron -->
+		<!-- jumbotron -->
 		<div class="jumbotron">
-			<h1>The Truth Is Out There</h1>
+			<h1 class="display-4">The Truth is Out There</h1>
 		</div>
 
 		<!-- news title and paragraph -->
@@ -34,7 +34,7 @@
 			<div class="row">
 				<!--Title-->
 				<div class="col-md-4">
-					<h3>UFO Sightings: Fact or Fancy? <small>Ufologists Weigh In</small></h3>			NOTE
+					<h3>UFO Sightings: Fact or Fancy? <small>Ufologists Weigh In</small></h3> NOTE
 
 				</div>
 				<!-- Paragraph -->
@@ -73,27 +73,34 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-3">
-					<!-- form filter -->
-					<form>
+					<form class="bg-dark">
 						<p>Filter Search</p>
-						<ul class="list-group">
-							<li class="list-group-item">
+						<ul class="list-group bg-dark">
+							<li class="list-group-item bg-dark">
 								<label for="date">Enter Date</label>
-								<input type="text" placeholder="1/10/2010"
+								<input type="text" placeholder="1/1/2010"
 									id="datetime" />
-
 							</li>
-							<li class="list-group-item">
-								<button id="filter-btn" type="button"
-									class="btn btn-default">Filter Table</button>
-
+							<li class="list-group-item bg-dark">
+								<label for="city">Enter City</label>
+								<input type="text" placeholder="El Cajon" id="city" />
+							</li>
+							<li class="list-group-item bg-dark">
+								<label for="state">Enter State</label>
+								<input type="text" placeholder="CA" id="state" />
+							</li>
+							<li class="list-group-item bg-dark">
+								<label for="country">Enter Country</label>
+								<input type="text" placeholder="US" id="country" />
+							</li>
+							<li class="list-group-item bg-dark">
+								<label for="shape">Enter Shape</label>
+								<input type="text" placeholder="Triangle" id="shape" />
 							</li>
 
 						</ul>
 					</form>
-
 				</div>
-				<!-- Table -->
 				<div class="col-md-9">
 					<table class="table table-striped">
 						<thead>
