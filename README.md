@@ -18,17 +18,17 @@ Results:
 
 ### Welcome to UFO Sightings!
 
-![1](static\images\top.png)
+![1](static/images/top.png)
 
 
 ### How the filters appear when first landing on the page:
 
-![2](static\images\working_filters.png)
+![2](static/images/working_filters.png)
 
 ### How the filters appear after being used:
 By typing in the suggested placeholder elements as the filters, the result returns 2 matches. Make sure to type everything in lower case letters and do not have spaces at the end of the text. Click off the input box or press enter to initiate the filter. To reset the filter criteria, click the refresh button. The ufo sightings in the Nav bar will take you to the github repository.
 
-![3](static\images\bottom.png)
+![3](static/images/bottom.png)
 
 ## Summary:
 ### Drawbacks:
