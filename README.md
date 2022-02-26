@@ -37,8 +37,8 @@ The user must know specific dates, cities, or shapes to search. Some shapes like
 ### Recommendations:
  - The next addition to the filters should be to add a trim function to catch spaces at the end of words as well as allow for upper and lower cases. 
 
-![4](static\images\trim.png)
+![4](static/images/trim.png)
 
 - A filter on a date range might be preferable than a singular date. Typing 1/2010 did not bring up all the dates from January as hoped. Perhaps, the UFO Sightings occur more frequently in a specific month instead of a specific day within the month. It is recommended to add in a filter function to include a date range as the filter to aid in the investigation of UFO Sightings.
 
-![5](static\images\Date.png)
+![5](static/images/Date.png)
