@@ -31,7 +31,7 @@ By typing in the suggested placeholder elements as the filters, the result retur
 ![3](static/images/bottom.png)
 
 ## Summary:
-### Drawbacks:
+### Drawbacks and Takeaways:
 The user must know specific dates, cities, or shapes to search. Some shapes like "light" might not be as intuitive. The filters require correct lower-case spellings and cannot include spaces at the end. The city that was used, for example, could not be typed as "elcajon", “el cajon_”, or "El Cajon". The only acceptable input would be "el cajon".
 
 ### Recommendations:
